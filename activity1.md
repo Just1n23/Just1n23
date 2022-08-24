@@ -1,6 +1,6 @@
-wake up
-get off bed
-walk to the bathroom
+## wake up
+## get off bed
+## walk to the bathroom
 brush teeth
 shower
 get changed
